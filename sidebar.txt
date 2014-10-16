@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bng:home|Door43 (bng)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bng|d43-bng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bng/archive/master.zip|d43-bng.zip]]
+
+**Recent Changes**
+{{changes>ns = bng}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bng|Ethnologue data]]
+
